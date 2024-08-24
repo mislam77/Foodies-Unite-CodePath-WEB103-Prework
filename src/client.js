@@ -1,8 +1,8 @@
-require('dotenv').config();
-
 import { createClient } from '@supabase/supabase-js';
 
-const URL = process.env.PROJECT_URL;
-const API_KEY = process.env.PROJECT_API;
+const URL = import.meta.env.VITE_PROJECT_URL;
+const API_KEY = import.meta.env.VITE_PROJECT_API;
 
-export const supabase = createClient(URL, API_KEY);
+const supabase = createClient(URL, API_KEY);
+
+export default supabase
