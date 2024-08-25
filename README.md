@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-![alt text](https://i.imgur.com/oSyGS3R.gif)
+<img src="/gif/codepath-web103-prework.gif?raw=true" width="200px">
 
 
 
