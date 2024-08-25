@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import supabase from '../client';
 import Card from '../components/Card';
+import './ShowCreators.css';
 
 const ShowCreators = () => {
-  const [creators, setCreators] = useState([]);
+  const [creators, setCreators] = useState(null);
 
   useEffect(() => {
     const fetchCreators = async () => {
@@ -16,13 +17,11 @@ const ShowCreators = () => {
 
   return (
     <div className="show-creators">
-      {creators.length > 0 ? (
+      {creators && creators.length > 0 &&
         creators.map((creator) => (
           <Card key={creator.id} {...creator} />
         ))
-      ) : (
-        <p>No creators found.</p>
-      )}
+      }
     </div>
   );
 };

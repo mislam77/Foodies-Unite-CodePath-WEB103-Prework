@@ -1,0 +1,69 @@
+.creator-card {
+    position: relative;
+    width: 500px; /* Fixed width to make it a square */
+    height: 500px; /* Fixed height to make it a square */
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px; /* Optional, for rounded corners */
+    overflow: hidden; /* Ensures content does not overflow the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional, for shadow effect */
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+  }
+  
+  .card-icons {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    gap: 10px; /* Space between icons */
+    color: white;
+    font-size: 18px;
+  }
+  
+  .card-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for text readability */
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .card-content h2 {
+    margin: 0;
+    font-size: 16px; /* Adjust as needed */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .card-content p {
+    margin: 5px 0;
+    font-size: 12px; /* Adjust as needed */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .card-content a {
+    display: block;
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 12px; /* Adjust as needed */
+    text-align: center;
+  }
+  
+  .card-content a:hover {
+    background-color: darkgrey;
+  }
+  
