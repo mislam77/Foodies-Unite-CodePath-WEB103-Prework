@@ -2,9 +2,9 @@
 
 Submitted by: **Md Wasiul Islam**
 
-About this web app: **👉🏿 Foodies Unite is a dynamic CRUD (Create, Read, Update, Delete) application designed for managing and showcasing your favorite food content creators. With a user-friendly interface, this app allows you to effortlessly add new creators, view their profiles, edit details, and remove entries. Each creator's card features a background image, name, description, and a link to their channel, making it easy to explore and connect with food enthusiasts. The app is built using Vite.js with React for a seamless and responsive user experience, and PicoCSS for elegant styling. Enjoy discovering and managing food creators in a beautifully organized grid layout!**
+About this web app: **Foodies Unite is a dynamic CRUD (Create, Read, Update, Delete) application designed for managing and showcasing your favorite food content creators. With a user-friendly interface, this app allows you to effortlessly add new creators, view their profiles, edit details, and remove entries. Each creator's card features a background image, name, description, and a link to their channel, making it easy to explore and connect with food enthusiasts. The app is built using Vite.js with React for a seamless and responsive user experience, and PicoCSS for elegant styling. Enjoy discovering and managing food creators in a beautifully organized grid layout!**
 
-Time spent: **👉🏿 8-10** hours
+Time spent: **8-10** hours
 
 ## Required Features
 
@@ -32,6 +32,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://i.imgur.com/oSyGS3R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Gifs-Hub/codepath-web103-prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 LiceCap
