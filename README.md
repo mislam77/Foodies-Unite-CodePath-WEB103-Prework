@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="/gif/codepath-web103-prework.gif?raw=true" width="500px">
+<img src="/gif/codepath-web103-prework.gif?raw=true" width="1000px">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **LiceCap**
