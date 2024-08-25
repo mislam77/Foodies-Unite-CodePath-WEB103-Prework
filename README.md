@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-<img src='(https://i.imgur.com/oSyGS3R.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s1.ezgif.com/tmp/ezgif-1-1ca33abfb6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
