@@ -31,17 +31,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
-
-
-<img src="/gif/codepath-web103-prework.gif?raw=true" width="200px">
-
-
-
-
+<img src="/gif/codepath-web103-prework.gif?raw=true" width="500px">
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 LiceCap
+GIF created with **LiceCap**
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -53,7 +46,7 @@ I didn't necessarily encounter any challenges while creating this app besides le
 
 ## License
 
-Copyright [👉🏿 2024] [👉🏿 Md Wasiul Islam]
+Copyright [2024] [Md Wasiul Islam]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
